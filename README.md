@@ -46,9 +46,13 @@ The dataset required cleaning due to missing values, inconsistent formats, and m
 
 ## ❔ Key Questions
 1. What is the most frequent genre of movies released on Netflix?
+  
 2. Which genre has the highest votes?
+ 
 3. What movie got the highest popularity? What's its genre?
+
 4. What movie got the lowest popularity? What's its genre?
+ 
 5. Which year has the most filmed movies?
 
 ## 📊 Key Findings
